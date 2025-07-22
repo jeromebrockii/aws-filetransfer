@@ -1,7 +1,7 @@
 # WeTransfer Clone with Aws Serverless
 It is a super simple serverless application that uses AWS Lambda, Amazon S3 and CDK
 
-## Architecture
+## Architecture Description
 
 ### Steps
 1. Uploader user send request to Upload Lambda with Sender Email, Receiver Email and FileName (in Metadata). 
